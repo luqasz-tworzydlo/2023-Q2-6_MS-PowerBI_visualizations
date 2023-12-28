@@ -1,2 +1,12 @@
-# 2023-Q2-6_MS-PowerBI_visualizations
-2023-Q2-6 ( MS-PowerBI ) [ visualizations ]
+# 2023-Q2-5_Tableau-Public_visualizations
+2023-Q2-5 ( Tableau Public ) [visualizations]
+
+/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
+
+Various analytic exercises in MS Power BI.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Różnorodne zadania analityczne w MS Power BI.
+
+/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
